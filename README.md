@@ -89,6 +89,6 @@ $salaire->store(
 
 Open web browser and go to the following location. Ouvrez un navigateur web et entrez l'adresse suivant :
 
-> localhost/xopendsn.php
+> localhost/xopendsn.php?date=2023-04-01&id=1
 
 You will find in your local download folder a .dsn file and in PDF/ the payslip (fichier .odt). Vous trouverez dans le dossier local de téléchargement un .dsn ainsi que dans le dossier PDF/ la fiche de paie (.odt file). You can adapt the odt template (BdP.odt file) as you want (add your logo at top left, for example). vous pouvez adapter le template odt (fichier BdP.odt) comme vous le souhaitez (en ajoutant votre logo en haut à gauche). 
